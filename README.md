@@ -20,3 +20,10 @@ Type ```http://localhost:8000/``` in the address bar of your browser
 
 ## Result
 
+Initial mesh:
+
+<img width="964" alt="jarray reverse exampl" src="https://github.com/OOps717/Root-subdivision-of-3/blob/master/Screenshot%20from%202022-01-03%2019-04-31.png">
+
+Result:
+
+<img width="964" alt="jarray reverse exampl" src="https://github.com/OOps717/Root-subdivision-of-3/blob/master/Screenshot%20from%202022-01-03%2019-04-36.png">
